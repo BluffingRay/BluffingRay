@@ -35,7 +35,7 @@ I am a Data Science major at the University of Southeastern Philippines, special
 * **[UNDP Partnership (Team2-UNDP)](https://github.com/Team2-UNDP):** Handled backend development and API database calls for a massive section-wide software initiative partnered with the United Nations Development Programme.
 * **[KLIMAS: Climate Dashboard](https://github.com/viancie/klimas):** Extracted geolocations and visualized 20 years of Davao City environmental data into an interactive dashboard presented at Innofiesta 2024.
 * **USeP School of Law OJT Systems:** Developed **[Project GMS](https://github.com/BluffingRay/project-gms)** (a Streamlit-based grading management demo) and the **[SoL Dashboard](https://github.com/BluffingRay/SoL-Dashboard)** for live tracking of graduate and enrollment data.
-
+* **[WattWise: IoT Energy Monitoring Dashboard](https://github.com/BluffingRay/WattWise):** Built a real-time energy monitoring and management system using ESP32 and PZEM-004T sensors. Developed a live web dashboard to track voltage, current, power consumption, and energy usage, enabling users to monitor and optimize their electricity footprint.
 ---
 
 ### 📫 Let's Connect!
