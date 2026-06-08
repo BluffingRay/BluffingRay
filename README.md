@@ -2,7 +2,7 @@
 
 **Computer Science | AI/ML & Backend Development**
 
-I am a Data Science major at the University of Southeastern Philippines, specializing in deep learning, data visualization, and backend architecture. 
+I am a Data Science major at the University of Southeastern Philippines with a practical background in web development, machine learning, and hardware automation. I enjoy building end-to-end systems—from training and deploying deep learning models to designing real-time IoT monitoring dashboards using different tools.
 
 ### 🛠️ Tech Stack & Tools
 **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -20,6 +20,7 @@ I am a Data Science major at the University of Southeastern Philippines, special
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
