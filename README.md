@@ -39,6 +39,6 @@ I am a Data Science major at the University of Southeastern Philippines, special
 ---
 
 ### 📫 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/raymar-serondo](https://www.linkedin.com/in/raymar-serondo)
+* **LinkedIn:** [https://ph.linkedin.com/in/raymar-serondo-a3a62333a](https://ph.linkedin.com/in/raymar-serondo-a3a62333a)
 * **Facebook:** [facebook.com/sunrays.janai](https://www.facebook.com/sunrays.janai)
 * **Email:** raymarserondo@gmail.com
